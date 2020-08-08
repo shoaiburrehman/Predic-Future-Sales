@@ -19,5 +19,4 @@
 
 ## Model Building
 * With ARIMA Model we predict sales for the next 6 months
-* And with LSTM model we predict sales for the next month only (which was required)
-* We got **mean_squared_error: 6.1309** from LSTM
+* And with LSTM model we got the **mean_squared_error: 6.1309**
